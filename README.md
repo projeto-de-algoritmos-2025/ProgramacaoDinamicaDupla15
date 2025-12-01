@@ -31,6 +31,12 @@ Repositório destinado ao trabalho de Dividir e Conquistar da disciplina de Proj
 ---
 ### Screenshots de submissões
 
+
+![Imagem do WhatsApp de 2025-12-01 à(s) 19 39 21_692f2c46](https://github.com/user-attachments/assets/aef642e1-9a45-4bc1-82a9-ed934a1ea141)
+![Imagem do WhatsApp de 2025-12-01 à(s) 19 39 39_fc2fa5e7](https://github.com/user-attachments/assets/ab90d77f-9547-4b24-87c5-b769c582f6ff)
+
+
+[Exércicio 4 -  Maximum Number of Events That Can Be Attended II - Difícil](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
 ---
 
 
