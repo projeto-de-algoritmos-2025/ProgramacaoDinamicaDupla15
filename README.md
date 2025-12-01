@@ -26,8 +26,7 @@ Repositório destinado ao trabalho de Dividir e Conquistar da disciplina de Proj
 ---
 ### Apresentação
 
-[Link da apresentação]
-
+[Link da apresentação]()
 ---
 ### Screenshots de submissões
 
@@ -39,9 +38,15 @@ Repositório destinado ao trabalho de Dividir e Conquistar da disciplina de Proj
 [Exércicio 4 -  Maximum Number of Events That Can Be Attended II - Difícil](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
 ---
 
+<img width="961" height="956" alt="image" src="https://github.com/user-attachments/assets/35dc0b3a-7dfa-495f-967a-1ceb155e8000" />
 
+[Exercício 44 - Wildcard Mathcing - Difícil](https://leetcode.com/problems/wildcard-matching/description/)
 ---
+<img width="961" height="956" alt="image" src="https://github.com/user-attachments/assets/2b9f475a-f790-4b61-9a13-07824575560a" />
 
+
+[Execício 474 - Ones and Zeros - Difícil](https://leetcode.com/problems/ones-and-zeroes/description/)
+---
 ### Linguagem
 
 Foram utilizadas as linguagens `python 3` e `c++`
